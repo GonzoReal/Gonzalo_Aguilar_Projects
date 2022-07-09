@@ -11,4 +11,4 @@
 
 - Who are the top 10 console players
 - how much is the highest payout in total earnings
-- Does highest payout and total earnings have any outliers
+- Does highest payout and total earnings have any outlierss
