@@ -4,8 +4,8 @@
 
 
 ## Data Analysis - Top 10 console players 
-![](file:///Users/franciasgaberielacareres/Downloads/4e8db1cb9e03af414122bea4c92fee99.jpg)
 
+![This is an image](4e8db1cb9e03af414122bea4c92fee99.jpg)
 
 #### Project overview
 
