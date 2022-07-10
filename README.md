@@ -7,11 +7,13 @@
 
 
 
-#### Describtive Analysis Overview
+#### Project overview
 
-- Who are the top 10 console players
-- how much is the highest payout in total earnings
-- Does highest payout and total earnings have any outlierss
+Analyzing a life-long passion of mine which is gaming! and no better
+way to do that by interpret a dataset and extract any kind of useful value
+I begin with:
+
+# Objectve: Summarize the data and interpret any conclusions from the data
 
 
 
