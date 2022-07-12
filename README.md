@@ -28,6 +28,9 @@ I used Google Sheets IMPORTHTML() fuction to import the data into a spreadsheet 
 
 
 ### Data Altering in BigQuery
+
+in order to visualize we need the data be visual ready, next we import the data into BigQuery and transfrom it to our needs below:
+
 * aliasing column names to visulize and summarize the data in a more preferable way
 * filtering the data to list only the highest earning(last 30 days) console players 
 * Limiting the results to focus only on the top 10 players 
