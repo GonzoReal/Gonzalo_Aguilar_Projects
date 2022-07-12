@@ -15,12 +15,16 @@ way to do that by interpreting a dataset I extracted from the web
 #### Objectve: Summarize the data and interpret all conclusions 
 
 
-###Collecting the data 
+
+### Collecting the data 
 
 Many tabs later I found the dataset I wanted to work with and lucky for me it was in a pretty looking table waiting for me 
 to grab
 
-So I used Google Sheets IMPORTHTML() fuction to import the data into a spreadsheet
+So I used Google Sheets IMPORTHTML() fuction to import the data into a spreadsheet it looked even prettier!!! when the dataset 
+was in my spreadhseet
+<img width="1085" alt="Screen Shot 2022-07-12 at 8 51 25 AM" src="https://user-images.githubusercontent.com/104581752/178510597-f0d5f667-b09d-4ff9-961b-8601e6951654.png">
+
 
 
 
