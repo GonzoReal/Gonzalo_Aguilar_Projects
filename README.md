@@ -3,7 +3,7 @@
 
 
 
-## Data Analysis - Top 10 console players
+## Describtive Analysis - Top 10 console players
 
 #### Project overview 
 Analyzing a life-long passion of mine which is gaming! and no better
@@ -20,14 +20,17 @@ way to do that by interpreting a dataset I extracted from the web
 
 ### Data Collection 
 
-Many tabs later I found the dataset I wanted to work with from a [website](esportearnings.com)
+Many tabs later I found the dataset I wanted to work with from a website all about esports and data [HERE](https://www.esportsearnings.com/players/console-players)
 
 I used Google Sheets IMPORTHTML() fuction to import the data into a spreadsheet the field name's are not so pretty to work with in SQL
 
 <img width="1085" alt="Screen Shot 2022-07-12 at 8 51 25 AM" src="https://user-images.githubusercontent.com/104581752/178510597-f0d5f667-b09d-4ff9-961b-8601e6951654.png">
 
-### Data 
-Renaming the column names 
+
+### Data Altering in BigQuery
+* aliasing column names to visulize and summarize the data in a more preferable way
+* filtering the data to list only the highest earning(last 30 days) console players 
+* Limiting the results to focus only on the top 10 players 
 
 
 
