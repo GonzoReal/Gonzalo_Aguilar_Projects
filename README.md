@@ -3,7 +3,7 @@
 
 
 
-## Describtive Analysis - Top 10 console players
+## Descriptive Analysis - Top 10 console players 
 
 #### Project overview 
 Analyzing a life-long passion of mine which is gaming! and no better
