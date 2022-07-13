@@ -31,11 +31,12 @@ I used Google Sheets IMPORTHTML() fuction to import the data into a spreadsheet 
 
 in order to visualize we need the data be visual ready, next we import the data into BigQuery and transfrom it to our needs below:
 
-* aliasing column names to visulize and summarize the data in a more preferable way
+* aliasing column names to visulize and summarize the data easier 
 * filtering the data to list only the highest earning(last 30 days) console players 
 * Limiting the results to focus only on the top 10 players
 
 ![This is an image](Screen Shot 2022-07-12 at 11.02.04 AM.png)
+
 
 
 
