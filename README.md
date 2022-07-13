@@ -39,6 +39,16 @@ in order to visualize we need the data be visual ready, next we import the data 
 
 ALL SQL QUIERIES [HERE](https://github.com/GonzoReal/Gonzalo_Aguilar_Projects/blob/main/SQL%20QUERIES)
 
+C6, Arcitys, Clayster, Abezy, Simp, and Scump have all earned more than a milion dollars playing videgames specifcally in Call of Duty,
+So the next time you tell your kid to stop playing video games remeber that he/she can have a comfortable living.
+
+Ian porter known as C6 in game is the 1# console player by earnings in the last 30 days
+
+should C6 worry about the runner up Alec Sanderson know as Arcitys taking his crown? Looking at the highest paid game and 
+percent of total says otherwise.
+
+
+
 
 
 
