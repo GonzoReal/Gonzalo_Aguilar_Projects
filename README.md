@@ -42,7 +42,6 @@ C6, Arcitys, Clayster, Abezy, Simp, and Scump have all earned more than a milion
 So the next time you tell your kid to stop playing video games remeber that he/she can have a comfortable living.
 
 Ian porter known as C6 in game is the 1# console player by earnings in the last 30 days
-![This is an image](Dashboard 2-4.pdf)
 
 
 should C6 worry about the runner up Alec Sanderson know as Arcitys taking his crown? Looking at the highest paid game and 
