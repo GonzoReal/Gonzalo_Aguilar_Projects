@@ -36,6 +36,7 @@ in order to visualize we need the data be visual ready, next we import the data 
 * Limiting the results to focus only on the top 10 players
 
 ![This is an image](Screen Shot 2022-07-12 at 11.02.04 AM.png)
+ALL SQL QUIERIES HERE:
 
 
 
