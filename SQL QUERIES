@@ -1,0 +1,19 @@
+-- Aliasing column names and casting string to a numeric 
+
+SELECT 
+      int64_field_0 AS ranking, 
+      Player_id AS player_id, 
+      Player_Name AS player_name, 
+      Total__Last_30_Days_ AS total_earnings, 
+      Highest_Paying_Game AS highest_Paying_game, 
+      Total__Game_ AS game_total,
+CAST(__of_Total AS NUMERIC)AS percent_of_total
+
+FROM data-analyst-349214.console_players.top_10_console_players
+
+
+
+-- Filtering top 10 console players 
+
+ORDER BY int64_field_0 
+ LIMIT 10 
