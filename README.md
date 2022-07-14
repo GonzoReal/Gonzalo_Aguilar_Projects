@@ -41,10 +41,22 @@ ALL SQL QUIERIES [HERE](https://github.com/GonzoReal/Gonzalo_Aguilar_Projects/bl
 C6, Arcitys, Clayster, Abezy, Simp, and Scump have all earned more than a milion dollars playing videgames specifcally in Call of Duty,
 So the next time you tell your kid to stop playing video games remeber that he/she can have a comfortable living.
 
-Ian porter known as C6 in game is the 1# console player by earnings in the last 30 days
+Ian porter known as **C6** in game is the **1# console player by earnings in the last 30 days**
 ![this is an image](Dashboard 2-13.pdf)
-should C6 worry about the runner up Alec Sanderson know as Arcitys taking his crown? Looking at the highest paid game and 
-percent of total says otherwise. 
+should C6 worry about the runner up Alec Sanderson know as Arcitys taking his crown? Looking at the highest paid game and percent of total says otherwise.
+
+### The Outlier
+
+Arcitys earned **487,500.00** in his highest payout game contributing to **40%** of his total earnings compared to 
+
+C6 highest payout **353,000.00** contributing to only 25% of his total earnings 
+
+The #6 rank player Seth Amber know as Scump in game, highest payout is **261,000.00** contributing to only **22%** slithering his way to the top of the ranking.
+
+
+
+
+
 
 
 
