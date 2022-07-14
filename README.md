@@ -45,7 +45,7 @@ Ian porter known as **C6** in game is the **1# console player by earnings in the
 ![this is an image](Dashboard 2-13.pdf)
 should C6 worry about the runner up Alec Sanderson know as Arcitys taking his crown? Looking at the highest paid game and percent of total says otherwise.
 
-### The Outlier
+### The Outlier & Conclusions
 
 Arcitys earned **487,500.00** in his highest payout game contributing to **40%** of his total earnings compared to 
 
@@ -54,6 +54,11 @@ C6 highest payout **353,000.00** contributing to only **25%** of his total earni
 The #6 rank player Seth Amber know as **Scump** in game, highest payout is **261,000.00** contributing to only **22%** slithering his way to the top of the ranking 
 
 ![ggplot](Viz.png)
+
+The visual speaks in existeince each player's highest payout and much of it contributes to the percent of their total earnings and the one game that top 10 console players are playing is the Call of Duty franchise also my faviorite game
+
+some players highest payout contributes to most of their total earnings which can lead to questions like are they a one hit wonder or will there winnings be consistent? Only the next Call of Duty game can tell.
+
 
 
 
