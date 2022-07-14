@@ -51,9 +51,9 @@ Arcitys earned **487,500.00** in his highest payout game contributing to **40%**
 
 C6 highest payout **353,000.00** contributing to only **25%** of his total earnings 
 
-The #6 rank player Seth Amber know as **Scump** in game, highest payout is **261,000.00** contributing to only **22%** slithering his way to the top of the ranking !
+The #6 rank player Seth Amber know as **Scump** in game, highest payout is **261,000.00** contributing to only **22%** slithering his way to the top of the ranking 
 
-[ggplot](Viz.png)
+![ggplot](Viz.png)
 
 
 
