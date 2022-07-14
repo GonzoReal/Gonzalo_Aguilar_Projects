@@ -29,7 +29,7 @@ I used Google Sheets IMPORTHTML() fuction to import the data into a spreadsheet 
 
 ### Data Altering in BigQuery
 
-in order to visualize we need the data be visual ready, next we import the data into BigQuery and transfrom it to our needs below:
+in order to visualize and interpret data we import the data into BigQuery and transfrom it to our needs below:
 
 * aliasing column names to visulize and summarize the data easier 
 * filtering the data to list only the highest earning(last 30 days) console players 
@@ -38,8 +38,8 @@ in order to visualize we need the data be visual ready, next we import the data 
 ![This is an image](Screen Shot 2022-07-12 at 11.02.04 AM.png)
 ALL SQL QUIERIES [HERE](https://github.com/GonzoReal/Gonzalo_Aguilar_Projects/blob/main/SQL%20QUERIES)
 
-C6, Arcitys, Clayster, Abezy, Simp, and Scump have all earned more than a milion dollars playing videgames specifcally in Call of Duty,
-So the next time you tell your kid to stop playing video games remeber that he/she can have a comfortable living.
+C6,  Arcitys,  Clayster,  Abezy,  Simp, and Scump have all earned more than a milion dollars playing videgames specifcally in Call of Duty,
+So the next time you tell your kid to stop playing video games remeber that he/she can have a comfortable living doing the things they enjoy which is gaming
 
 Ian porter known as **C6** in game is the **1# console player by earnings in the last 30 days**
 ![this is an image](Dashboard 2-13.pdf)
@@ -51,11 +51,11 @@ Arcitys earned **487,500.00** in his highest payout game contributing to **40%**
 
 C6 highest payout **353,000.00** contributing to only **25%** of his total earnings 
 
-The #6 rank player Seth Amber know as **Scump** in game, highest payout is **261,000.00** contributing to only **22%** slithering his way to the top of the ranking 
+The #6 rank player Seth Amber know as **Scump** in game, highest payout is **261,000.00** contributing to only **22%** slithering his way to the top of the ranking,  Scump is the player to watch out for next Call of Duty season
+
+The visual speaks in existeince each player's highest payout and much of it contributes to the percent of their total earnings and the one game that top 10 console players are playing is the Call of Duty franchise also my faviorite console game
 
 ![ggplot](Viz.png)
-
-The visual speaks in existeince each player's highest payout and much of it contributes to the percent of their total earnings and the one game that top 10 console players are playing is the Call of Duty franchise also my faviorite game
 
 some players highest payout contributes to most of their total earnings which can lead to questions like are they a one hit wonder or will there winnings be consistent? Only the next Call of Duty game can tell.
 
