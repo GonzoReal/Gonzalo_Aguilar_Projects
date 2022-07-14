@@ -43,7 +43,7 @@ So the next time you tell your kid to stop playing video games remeber that he/s
 
 Ian porter known as C6 in game is the 1# console player by earnings in the last 30 days
 
-![this is an image](https://github.com/GonzoReal/Gonzalo_Aguilar_Projects/blob/main/Dashboard%202-13.pdf)
+![this is an image](Dashboard 2-13.pdf)
 
 should C6 worry about the runner up Alec Sanderson know as Arcitys taking his crown? Looking at the highest paid game and 
 percent of total says otherwise. 
