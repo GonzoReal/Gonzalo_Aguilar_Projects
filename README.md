@@ -54,8 +54,9 @@ C6 highest payout **353,000.00** contributing to only **25%** of his total earni
 
 The #6 rank player Seth Amber know as **Scump** in game, highest payout is **261,000.00** contributing to only **22%** slithering his way to the top of the ranking,  Scump is the player to watch out for next Call of Duty season
 
-The visual speaks in existeince each player's highest payout and much of it contributes to the percent of their total earnings and the one game that top 10 console players are playing is the Call of Duty franchise also my faviorite console game 
-[R visual process](https://0de228fd7f334b929e35821a9cfa9a35.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FVisual_console.html)
+The visual speaks in existeince each player's highest payout and much of it contributes to the percent of their total earnings and the one game that top 10 console players are playing is the Call of Duty franchise also my faviorite console game
+
+[R visual process HERE](https://0de228fd7f334b929e35821a9cfa9a35.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FVisual_console.html)
 ![ggplot](Viz.png)
 
 some players highest payout contributes to most of their total earnings which can lead to questions like are they a one hit wonder or will there winnings be consistent? Only the next Call of Duty game can tell.
