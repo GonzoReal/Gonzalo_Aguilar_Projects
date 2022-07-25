@@ -65,7 +65,7 @@ The visual speaks in existeince each player's highest payout and much of it cont
 
 some players highest payout contributes to most of their total earnings which can lead to questions like are they a one hit wonder or will there winnings be consistent? Only the next Call of Duty game can tell.
 
-
+ 
 
 
 
