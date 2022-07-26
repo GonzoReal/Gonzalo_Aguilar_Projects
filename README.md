@@ -57,6 +57,7 @@ The #6 rank player Seth Amber know as **Scump** in game, highest payout is **261
 The visual speaks in existeince each player's highest payout and much of it contributes to the percent of their total earnings and the one game that top 10 console players are playing is the Call of Duty franchise also my faviorite console game
 
 ![This is an image](Viz.png)
+
 [R CODE MARKDOWN](document-2.pdf)
 
 
