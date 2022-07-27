@@ -58,7 +58,7 @@ The visual speaks in existeince each player's highest payout and much of it cont
 
 ![This is an image](Viz.png)
 
-[R CODE MARKDOWN](document-2.pdf)
+[R Code Markdown](file:///Users/franciasgaberielacareres/Downloads/Visual_console.html)
 
 
 ### Further Analysis
