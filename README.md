@@ -61,9 +61,9 @@ The visual speaks in existeince each player's highest payout and much of it cont
 [R Code Markdown](fhttps://github.com/GonzoReal/Gonzalo_Aguilar_Projects/blob/main/Visual_console.html)
 
 
-### Further Analysis
+### Exploratory Analysis
 
-some players highest payout contributes to most of their total earnings which can lead to questions like are they a one hit wonder or will there winnings be consistent? Only the next Call of Duty game can tell.
+some players highest payout contributes to most of their total earnings which can lead to questions like are they a one hit wonder or will there winnings be consistent? Only the next Call of Duty game can tell. 
 
  
 
