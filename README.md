@@ -58,7 +58,7 @@ The visual speaks in existeince each player's highest payout and much of it cont
 
 ![This is an image](Viz.png)
 
-[R Code Markdown](http://rpubs.com/GonzoDA/Project))
+[R Code Markdown](http://rpubs.com/GonzoDA/Project)
 
 
 ### Exploratory Analysis
